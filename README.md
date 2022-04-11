@@ -1,4 +1,4 @@
-<h1 align="center"> [![MasterHead](https://i.imgur.com/l4Vdd5V.gif)](https://github.com/SuperSayf)
+<h1 align="center">[![MasterHead](https://i.imgur.com/l4Vdd5V.gif)](https://github.com/SuperSayf)
 
 <h1 align="center">Hi 👋, I'm Sayfullah</h1>
 <h3 align="center">Your ordinary neighbourhood programmer</h3>
