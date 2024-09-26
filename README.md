@@ -5,9 +5,14 @@
 <h1 align="center">Hi 👋, I'm Sayfullah</h1>
 <h3 align="center">Your ordinary neighbourhood programmer</h3>
 
-<img src="https://profile-counter.glitch.me/{supersayf}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<div align="center">
+    <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/supersayf"/>  
+</div>
 
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayfullah-jumoorty/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-  square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 - 🔭 I’m currently working on my **postgraduate research in computer science**
 
@@ -36,4 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supersayf&show_icons=true&theme=dark&locale=en" alt="supersayf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supersayf&theme=dark" alt="supersayf" /></p>
+
+![Snake animation](https://raw.githubusercontent.com/supersayf/supersayf/output/github-contribution-grid-snake-dark.svg)
 
